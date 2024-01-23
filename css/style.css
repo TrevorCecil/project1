@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+
+}
+img{
+    background-color: blanchedalmond;
+}
+#main{
+    margin: auto;
+    width: 60%;
+    height: 40px;
+    font-size: 14px;
+}
+h5{
+    color: #ff7644;
+}
+hr{
+    color: #9af6f6;
+}
